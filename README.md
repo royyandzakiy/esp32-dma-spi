@@ -62,6 +62,3 @@ Transfers are CPU-managed and slower for large data sizes.
 ### Variations with I2C and UART:
 - **I2C DMA:** Suitable for large data transfers with DMA-capable buffers.
 - **UART DMA:** Ideal for high-speed data streaming.
-
-Let me know if further adjustments are needed!
-
